@@ -75,4 +75,3 @@ input.forEach((line) => {
 });
 console.log(sum);
 
-//54558
